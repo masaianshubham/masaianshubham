@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning full stack web development.
+- 💬 visit my portfolio to learn more: https://masaianshubham.github.io/
 
 <!--
 **masaianshubham/masaianshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
