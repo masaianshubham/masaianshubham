@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m a full stack web developer (MERN Stack).
 - 💬 visit my portfolio to learn more: https://masaianshubham.github.io/
 
 <!--
@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<img align="left" alt="Shubham Github stat" src="https://github-readme-stats.masaianshubham.vercel.app/api?username=masaianshubham&show_icons=true&hide_border=true"/>
+  
+[website]: https://masaianshubham.github.io/
+[linkedin]: https://www.linkedin.com/in/shubham-kumar-31a9351a8/
+
