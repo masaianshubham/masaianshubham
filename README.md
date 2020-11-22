@@ -2,6 +2,9 @@
 - 🌱 I’m a full stack web developer (MERN Stack).
 - 💬 visit my portfolio to learn more: https://masaianshubham.github.io/
 
+<img width=100% src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+
 <!--
 **masaianshubham/masaianshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
