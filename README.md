@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m a full stack web developer (MERN Stack).
-- 🔭 I’m currently working on next.js.
+- 🔭 I’m currently working on next.js with typescript.
 - 💬 visit my portfolio to learn more: https://masaianshubham.github.io/
 
 <img width=100% src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
